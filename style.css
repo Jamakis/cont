@@ -1,0 +1,10 @@
+.elem{
+    padding: 10px;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: yellowgreen;
+}
